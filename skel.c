@@ -1,9 +1,0 @@
-#include <stdioh>
-
-int main()
-{
-
-
-
-}
-
